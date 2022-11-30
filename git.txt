@@ -1,3 +1,5 @@
 Hello World! 
 So good to see you again!
-
+I am here to start over and review after having everything downloaded 
+needed to authorize my use into github through my terminal.
+wish me luck!
