@@ -1,0 +1,2 @@
+So I had to remember I cannot CD into a .txt file, but instead use nano to 
+access and add to it!
